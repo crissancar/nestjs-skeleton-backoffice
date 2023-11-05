@@ -1,0 +1,39 @@
+/* Texts -> Name property */
+tr>td[data-property-name="name"] {
+    white-space: nowrap;
+}
+
+/* AdminJS styles docs -> https://docs.adminjs.co/ui-customization/overwriting-css-styles */
+:root {
+    --topbar-color: white;
+    --sidebar-bg-color: white;
+    --sidebar-color: #062849;
+    --sidebar-link-color: #91A2BF;
+}
+
+section[data-css="sidebar"] {
+    background-color: var(--sidebar-bg-color) !important;
+    color: var(--sidebar-color);
+    border: none;
+}
+
+section[data-css="sidebar"] svg {
+    fill: var(--sidebar-color) !important;
+}
+
+a[data-css="sidebar-logo"] {
+    background-color: var(--sidebar-bg-color) !important;
+}
+
+section[data-css="sidebar-resources"] {
+    background: var(--sidebar-bg-color) !important;
+}
+
+[data-css="sidebar"] section a {
+    background: var(--sidebar-bg-color) !important;
+    color: var(--sidebar-color);
+}
+
+[data-css="sidebar"] a:hover {
+    color: var(--sidebar-link-color);
+}
