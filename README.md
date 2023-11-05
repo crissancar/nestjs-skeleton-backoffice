@@ -52,7 +52,7 @@ $ apt-get install --reinstall make
 
 1. Clone repository
     ```bash
-    $ git clone https://github.com/crissancar/nestjs-skeleton-api.git
+    $ git clone https://github.com/crissancar/nestjs-skeleton-backoffice.git
     ```
 2. Install dependencies
     ```bash
