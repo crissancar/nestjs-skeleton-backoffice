@@ -16,7 +16,7 @@
 </div>
 
 <!-- TABLE OF CONTENTS -->
-## 📝 Table of Contents
+## Table of Contents
 
 * [Getting Started](#getting-started)
     * [Prerequisites](#prerequisites)
@@ -27,7 +27,7 @@
 * [Documentation](#documentation)
 
 <!-- GETTING STARTED -->
-## 🚀 Getting Started
+## Getting Started
 
 This is an instructions on setting up the project locally.
 
@@ -79,5 +79,5 @@ $ npm run start:dev
 ```
 
 <!-- DOCUMENTATION -->
-## 📖 Documentation
+## Documentation
 -  [AdminJS](https://docs.adminjs.co/)
